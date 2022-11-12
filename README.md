@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-<a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="theblobscp" height="40" width="40"></a>
+<a href='https://discord.com/users/536538183555481601' target='_blank'><img align="center" src="icons/discord.svg" alt="yakirarage" height="40" width="40"></a>
 
 ![yakirarage](https://github-readme-stats.vercel.app/api/top-langs?username=yakirarage&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 ![yakirarage](https://github-readme-stats.vercel.app/api?username=yakirarage&show_icons=true&locale=en&theme=vue-dark)
