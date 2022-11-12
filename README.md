@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ![yakirarage](https://komarev.com/ghpvc/?username=yakirarage&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ### Main Languages and Tools:
@@ -11,6 +12,10 @@
 [![python](icons/python.svg)](https://www.python.org)
 [![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
 [![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
+
+### Connect with me:
+
+<a href='https://discord.com/users/718291524130963550' target='_blank'><img align="center" src="icons/discord.svg" alt="theblobscp" height="40" width="40"></a>
 
 ![yakirarage](https://github-readme-stats.vercel.app/api/top-langs?username=yakirarage&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 ![yakirarage](https://github-readme-stats.vercel.app/api?username=yakirarage&show_icons=true&locale=en&theme=vue-dark)
