@@ -24,5 +24,9 @@
 ### My stats:
 
 ![yakirarage](https://github-readme-stats.vercel.app/api/top-langs?username=yakirarage&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+
+
 ![yakirarage](https://github-readme-stats.vercel.app/api?username=yakirarage&show_icons=true&locale=en&theme=vue-dark)
+
+
 ![yakirarage](https://github-readme-streak-stats.herokuapp.com/?user=yakirarage&theme=vue-dark)
