@@ -8,7 +8,6 @@
 
 ### Main Languages and Tools:
 
-[![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
 [![html](icons/html.svg)](https://www.w3.org/html/)
 [![javascript](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -27,6 +26,3 @@
 
 
 ![yakirarage](https://github-readme-stats.vercel.app/api?username=yakirarage&show_icons=true&locale=en&theme=vue-dark)
-
-
-![yakirarage](https://github-readme-streak-stats.herokuapp.com/?user=yakirarage&theme=vue-dark)
